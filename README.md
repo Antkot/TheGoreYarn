@@ -1,1 +1,1 @@
-# TheGoryYarn
+# TheGoreYarn
